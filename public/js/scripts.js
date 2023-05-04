@@ -910,9 +910,9 @@ umegaTrailers = {
     category:     "S2a",
     variant:      "20",
     typeEC:       "ST",
-    weight:       7550,
-    techPayload:  24000,
-    roadWeight:   24000,
+    weight:       8500,
+    techPayload:  20000,
+    roadWeight:   20000,
     axleNum:      2,
     speed: 40,
     couplingFront: {
