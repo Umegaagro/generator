@@ -700,7 +700,7 @@ umegaTrailers = {
      weight:       6850,
     techPayload:  26150,
     roadWeight:   "n/a",
-    axleNum:      2,
+    axleNum:      3,
     speed: 40,
     couplingFront: {
       dval: 120,
