@@ -905,6 +905,219 @@ umegaTrailers = {
       }
     ]
   },
+	 st20:   {
+    name:         "ST20",
+    category:     "S2a",
+    variant:      "20",
+    typeEC:       "ST",
+    weight:       7550,
+    techPayload:  24000,
+    roadWeight:   24000,
+    axleNum:      2,
+    speed: 40,
+    couplingFront: {
+      dval: 120,
+      vval: 4000
+    },
+    couplingRear: {
+      presence:   false,
+      dval:       0
+    },
+    certificate: [
+      {
+        name: "No certification",
+        number: ""
+      },
+      {
+        name: "European 167/2013",
+        number: "e32*167/2013*00029*00",
+        type: "ST20"
+      }
+    ],
+    country: [
+      {
+        name:   "Albania",
+        locale: "al",
+        type:   "ST20"
+      },
+      {
+        name:   "Austria",
+        locale: "at",
+        type:   "ST20"
+      },
+      {
+        name:   "Belgium",
+        locale: "be",
+        type:   "ST20"
+      },
+      {
+        name:   "Bosnia and Herzegovina",
+        locale: "ba",
+        type:   "ST20"
+      },
+      {
+        name:   "Bulgaria",
+        locale: "bg",
+        type:   "ST20"
+      },
+      {
+        name:   "Croatia",
+        locale: "hr",
+        type:   "ST20"
+      },
+      {
+        name:   "Czech Rep.",
+        locale: "cz",
+        type:   "ST20"
+      },
+      {
+        name:   "Denmark",
+        locale: "dk",
+        type:   "ST20"
+      },
+      {
+        name:   "Estonia",
+        locale: "ee",
+        type:   "ST20"
+      },
+      {
+        name:   "Finland",
+        locale: "fi",
+        type:   "ST20"
+      },
+      {
+        name:   "France",
+        locale: "fr",
+        type:   "ST20"
+      },
+      {
+        name:   "Germany",
+        locale: "de",
+        type:   "ST20"
+      },
+      {
+        name:   "Greece",
+        locale: "gr",
+        type:   "ST20"
+      },
+      {
+        name:   "Hungary",
+        locale: "hu",
+        type:   "ST20"
+      },
+      {
+        name:   "Ireland",
+        locale: "ie",
+        type:   "ST20"
+      },
+      {
+        name:   "Italy",
+        locale: "it",
+        type:   "ST20"
+      },
+      {
+        name:   "Latvia",
+        locale: "lv",
+        type:   "ST20"
+      },
+      {
+        name:   "Lithuania",
+        locale: "lt",
+        type:   "ST20"
+      },
+      {
+        name:   "Macedonia",
+        locale: "mk",
+        type:   "ST20"
+      },
+      {
+        name:   "Moldova",
+        locale: "md",
+        type:   "ST20"
+      },
+      {
+        name:   "Montenegro",
+        locale: "me",
+        type:   "ST20"
+      },
+      {
+        name:   "Netherlands",
+        locale: "nl",
+        type:   "ST20"
+      },
+      {
+        name:   "Norway",
+        locale: "no",
+        type:   "ST20"
+      },
+      {
+        name:   "Poland",
+        locale: "pl",
+        type:   "ST20"
+      },
+      {
+        name:   "Portugal",
+        locale: "pt",
+        type:   "ST20"
+      },
+      {
+        name:   "Romania",
+        locale: "ro",
+        type:   "ST20"
+      },
+      {
+        name:   "Russia",
+        locale: "ru",
+        type:   "ST20",
+        drawbar: 3000
+      },
+      {
+        name:   "Serbia",
+        locale: "rs",
+        type:   "ST20"
+      },
+      {
+        name:   "Slovakia",
+        locale: "sk",
+        type:   "ST20"
+      },
+      {
+        name:   "Slovenia",
+        locale: "si",
+        type:   "ST20"
+      },
+      {
+        name:   "Spain",
+        locale: "es",
+        type:   "ST20"
+      },
+      {
+        name:   "Sweden",
+        locale: "se",
+        type:   "ST20"
+      },
+      {
+        name:   "Switzerland",
+        locale: "ch",
+        type:   "ST20"
+      },
+      {
+        name:   "Ukraine",
+        locale: "ua",
+        type:   "ST20"
+      },
+      {
+        name:   "United Kingdom",
+        locale: "gb",
+        type:   "ST20"
+      },
+      {
+        name:   "Other",
+        locale: "univ",
+        type:   "ST20"
+      }
+    ]
+  },
   pi20:   {
     name:         "PI20",
     category:     "S2a",
