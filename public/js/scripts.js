@@ -912,7 +912,7 @@ umegaTrailers = {
     typeEC:       "ST",
     weight:       8900,
     techPayload:  20000,
-    roadWeight:   20000,
+    roadWeight:   24000,
     axleNum:      2,
     speed: 40,
     couplingFront: {
