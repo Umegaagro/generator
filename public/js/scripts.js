@@ -692,6 +692,219 @@ umegaTrailers = {
       }
     ]
   },
+	ll33:   {
+    name:         "LL33",
+    category:     " ",
+    variant:      "33",
+    typeEC:       "LL",
+    weight:       8900,
+    techPayload:  20000,
+    roadWeight:   24000,
+    axleNum:      2,
+    speed: 40,
+    couplingFront: {
+      dval: 120,
+      vval: 4000
+    },
+    couplingRear: {
+      presence:   false,
+      dval:       0
+    },
+    certificate: [
+      {
+        name: "No certification",
+        number: ""
+      },
+      {
+        name: "European 167/2013",
+        number: "e32*167/2013*00029*00",
+        type: "LL33"
+      }
+    ],
+    country: [
+      {
+        name:   "Albania",
+        locale: "al",
+        type:   "LL33"
+      },
+      {
+        name:   "Austria",
+        locale: "at",
+        type:   "LL33"
+      },
+      {
+        name:   "Belgium",
+        locale: "be",
+        type:   "LL33"
+      },
+      {
+        name:   "Bosnia and Herzegovina",
+        locale: "ba",
+        type:   "LL33"
+      },
+      {
+        name:   "Bulgaria",
+        locale: "bg",
+        type:   "LL33"
+      },
+      {
+        name:   "Croatia",
+        locale: "hr",
+        type:   "LL33"
+      },
+      {
+        name:   "Czech Rep.",
+        locale: "cz",
+        type:   "LL33"
+      },
+      {
+        name:   "Denmark",
+        locale: "dk",
+        type:   "LL33"
+      },
+      {
+        name:   "Estonia",
+        locale: "ee",
+        type:   "LL33"
+      },
+      {
+        name:   "Finland",
+        locale: "fi",
+        type:   "LL33"
+      },
+      {
+        name:   "France",
+        locale: "fr",
+        type:   "LL33"
+      },
+      {
+        name:   "Germany",
+        locale: "de",
+        type:   "LL33"
+      },
+      {
+        name:   "Greece",
+        locale: "gr",
+        type:   "LL33"
+      },
+      {
+        name:   "Hungary",
+        locale: "hu",
+        type:   "LL33"
+      },
+      {
+        name:   "Ireland",
+        locale: "ie",
+        type:   "LL33"
+      },
+      {
+        name:   "Italy",
+        locale: "it",
+        type:   "LL33"
+      },
+      {
+        name:   "Latvia",
+        locale: "lv",
+        type:   "LL33"
+      },
+      {
+        name:   "Lithuania",
+        locale: "lt",
+        type:   "LL33"
+      },
+      {
+        name:   "Macedonia",
+        locale: "mk",
+        type:   "LL33"
+      },
+      {
+        name:   "Moldova",
+        locale: "md",
+        type:   "LL33"
+      },
+      {
+        name:   "Montenegro",
+        locale: "me",
+        type:   "LL33"
+      },
+      {
+        name:   "Netherlands",
+        locale: "nl",
+        type:   "LL33"
+      },
+      {
+        name:   "Norway",
+        locale: "no",
+        type:   "LL33"
+      },
+      {
+        name:   "Poland",
+        locale: "pl",
+        type:   "LL33"
+      },
+      {
+        name:   "Portugal",
+        locale: "pt",
+        type:   "LL33"
+      },
+      {
+        name:   "Romania",
+        locale: "ro",
+        type:   "LL33"
+      },
+      {
+        name:   "Russia",
+        locale: "ru",
+        type:   "LL33",
+        drawbar: 3000
+      },
+      {
+        name:   "Serbia",
+        locale: "rs",
+        type:   "LL33"
+      },
+      {
+        name:   "Slovakia",
+        locale: "sk",
+        type:   "LL33"
+      },
+      {
+        name:   "Slovenia",
+        locale: "si",
+        type:   "LL33"
+      },
+      {
+        name:   "Spain",
+        locale: "es",
+        type:   "LL33"
+      },
+      {
+        name:   "Sweden",
+        locale: "se",
+        type:   "LL33"
+      },
+      {
+        name:   "Switzerland",
+        locale: "ch",
+        type:   "LL33"
+      },
+      {
+        name:   "Ukraine",
+        locale: "ua",
+        type:   "LL33"
+      },
+      {
+        name:   "United Kingdom",
+        locale: "gb",
+        type:   "LL33"
+      },
+      {
+        name:   "Other",
+        locale: "univ",
+        type:   "LL33"
+      }
+    ]
+  },
   gpp27l:   {
     name:         "GPP27L",
     category:     "S2a",
