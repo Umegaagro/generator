@@ -1336,9 +1336,9 @@ ll33:   {
     category:     " ",
     variant:      "33",
     typeEC:       "LL",
-    weight:       8900,
-    techPayload:  20000,
-    roadWeight:   24000,
+    weight:       6850,
+    techPayload:  26150,
+    roadWeight:   "n/a",
     axleNum:      2,
     speed: 40,
     couplingFront: {
