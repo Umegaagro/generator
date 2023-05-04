@@ -907,10 +907,10 @@ umegaTrailers = {
   },
 	 st20:   {
     name:         "ST20",
-    category:     "S2a",
+    category:     " ",
     variant:      "20",
     typeEC:       "ST",
-    weight:       8500,
+    weight:       8900,
     techPayload:  20000,
     roadWeight:   20000,
     axleNum:      2,
