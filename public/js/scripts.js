@@ -7381,7 +7381,7 @@ umegaTrailers = {
 	spp10x:   {
     name:         "SPP10X",
     category:     "R3a",
-    variant:      "10P",
+    variant:      "10X",
     typeEC:       "SPP",
     weight:       3700,
     techPayload:  10000,
@@ -8460,6 +8460,224 @@ umegaTrailers = {
         name:   "Other",
         locale: "univ",
         type:   "SPP12"
+      }
+    ]
+  },
+	spp12x:   {
+    name:         "SPP12X",
+    category:     "R3a",
+    variant:      "12X",
+    typeEC:       "SPP",
+    weight:       3700,
+    techPayload:  10000,
+    roadWeight:   13700,
+    axleNum:      2,
+    speed: 40,
+    couplingFront: {
+      dval: 120,
+      vval: 0
+    },
+    couplingRear: {
+      presence:   true,
+      dval:       96
+    },
+    certificate: [
+      {
+        name: "No certification",
+        number: "-",
+        type: "SPP12X"
+      },
+      {
+        name: "European 167/2013",
+        number: "e32*167/2013*00050*01",
+        type: "SPP12X"
+      },
+      {
+        name: "Poland",
+        number: "PL*44810*00",
+        type: "SP2/SPP12"
+      }
+    ],
+    country: [
+      {
+        name:   "Albania",
+        locale: "al",
+        type:   "SPP12X"
+      },
+      {
+        name:   "Austria",
+        locale: "at",
+        type:   "SPP12X"
+      },
+      {
+        name:   "Belgium",
+        locale: "be",
+        type:   "SPP12X"
+      },
+      {
+        name:   "Bosnia and Herzegovina",
+        locale: "ba",
+        type:   "SPP12X"
+      },
+      {
+        name:   "Bulgaria",
+        locale: "bg",
+        type:   "SPP12X"
+      },
+      {
+        name:   "Croatia",
+        locale: "hr",
+        type:   "SPP12X"
+      },
+      {
+        name:   "Czech Rep.",
+        locale: "cz",
+        type:   "SPP12X"
+      },
+      {
+        name:   "Denmark",
+        locale: "dk",
+        type:   "SPP12X"
+      },
+      {
+        name:   "Estonia",
+        locale: "ee",
+        type:   "SPP12X"
+      },
+      {
+        name:   "Finland",
+        locale: "fi",
+        type:   "SPP12X"
+      },
+      {
+        name:   "France",
+        locale: "fr",
+        type:   "SPP12X"
+      },
+      {
+        name:   "Germany",
+        locale: "de",
+        type:   "SPP12X"
+      },
+      {
+        name:   "Greece",
+        locale: "gr",
+        type:   "SPP12X"
+      },
+      {
+        name:   "Hungary",
+        locale: "hu",
+        type:   "SPP12X"
+      },
+      {
+        name:   "Ireland",
+        locale: "ie",
+        type:   "SPP12X"
+      },
+      {
+        name:   "Italy",
+        locale: "it",
+        type:   "SPP12X"
+      },
+      {
+        name:   "Latvia",
+        locale: "lv",
+        type:   "SPP12X"
+      },
+      {
+        name:   "Lithuania",
+        locale: "lt",
+        type:   "SPP12X"
+      },
+      {
+        name:   "Macedonia",
+        locale: "mk",
+        type:   "SPP12X"
+      },
+      {
+        name:   "Moldova",
+        locale: "md",
+        type:   "SPP12X"
+      },
+      {
+        name:   "Montenegro",
+        locale: "me",
+        type:   "SPP12X"
+      },
+      {
+        name:   "Netherlands",
+        locale: "nl",
+        type:   "SPP12X"
+      },
+      {
+        name:   "Norway",
+        locale: "no",
+        type:   "SPP12X"
+      },
+      {
+        name:   "Poland",
+        locale: "pl",
+        type:   "SP2/SPP12"
+      },
+      {
+        name:   "Portugal",
+        locale: "pt",
+        type:   "SPP12X"
+      },
+      {
+        name:   "Romania",
+        locale: "ro",
+        type:   "SPP12X"
+      },
+      {
+        name:   "Russia",
+        locale: "ru",
+        type:   "SPP12X"
+      },
+      {
+        name:   "Serbia",
+        locale: "rs",
+        type:   "SPP12X"
+      },
+      {
+        name:   "Slovakia",
+        locale: "sk",
+        type:   "SPP12X"
+      },
+      {
+        name:   "Slovenia",
+        locale: "si",
+        type:   "SPP12X"
+      },
+      {
+        name:   "Spain",
+        locale: "es",
+        type:   "SPP12X"
+      },
+      {
+        name:   "Sweden",
+        locale: "se",
+        type:   "SPP12X"
+      },
+      {
+        name:   "Switzerland",
+        locale: "ch",
+        type:   "SPP12X"
+      },
+      {
+        name:   "Ukraine",
+        locale: "ua",
+        type:   "SPP12X"
+      },
+      {
+        name:   "United Kingdom",
+        locale: "gb",
+        type:   "SPP12X"
+      },
+      {
+        name:   "Other",
+        locale: "univ",
+        type:   "SPP12X"
       }
     ]
   },
