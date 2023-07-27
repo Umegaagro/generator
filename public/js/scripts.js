@@ -9115,6 +9115,222 @@ umegaTrailers = {
       }
     ]
   },
+	  spp14x:   {
+    name:         "SPP14X",
+    category:     "R3a",
+    variant:      "14X",
+    typeEC:       "SPP14",
+    weight:       4750,
+    techPayload:  14000,
+    roadWeight:   18000,
+    axleNum:      2,
+    speed: 40,
+    couplingFront: {
+      dval: 120,
+      vval: 0
+    },
+    couplingRear: {
+      presence:   true,
+      dval:       96
+    },
+    certificate: [
+      {
+        name: "No certification",
+        number: ""
+      },
+      /*{
+        name: "European 167/2013",
+        number: "e32*167/2013*00023*00"
+      },*/
+      {
+        name: "Poland",
+        number: "PL*44810*00",
+        type: "SPP14X"
+      }
+    ],
+    country: [
+      {
+        name:   "Albania",
+        locale: "al",
+        type:   "SPP14X"
+      },
+      {
+        name:   "Austria",
+        locale: "at",
+        type:   "SPP14X"
+      },
+      {
+        name:   "Belgium",
+        locale: "be",
+        type:   "SPP14X"
+      },
+      {
+        name:   "Bosnia and Herzegovina",
+        locale: "ba",
+        type:   "SPP14X"
+      },
+      {
+        name:   "Bulgaria",
+        locale: "bg",
+        type:   "SPP14X"
+      },
+      {
+        name:   "Croatia",
+        locale: "hr",
+        type:   "SPP14X"
+      },
+      {
+        name:   "Czech Rep.",
+        locale: "cz",
+        type:   "SPP14X"
+      },
+      {
+        name:   "Denmark",
+        locale: "dk",
+        type:   "SPP14X"
+      },
+      {
+        name:   "Estonia",
+        locale: "ee",
+        type:   "SPP14X"
+      },
+      {
+        name:   "Finland",
+        locale: "fi",
+        type:   "SPP14X"
+      },
+      {
+        name:   "France",
+        locale: "fr",
+        type:   "SPP14X"
+      },
+      {
+        name:   "Germany",
+        locale: "de",
+        type:   "ZD18"
+      },
+      {
+        name:   "Greece",
+        locale: "gr",
+        type:   "SPP14X"
+      },
+      {
+        name:   "Hungary",
+        locale: "hu",
+        type:   "SPP14X"
+      },
+      {
+        name:   "Ireland",
+        locale: "ie",
+        type:   "SPP14X"
+      },
+      {
+        name:   "Italy",
+        locale: "it",
+        type:   "SPP14X"
+      },
+      {
+        name:   "Latvia",
+        locale: "lv",
+        type:   "SPP14X"
+      },
+      {
+        name:   "Lithuania",
+        locale: "lt",
+        type:   "SPP14X"
+      },
+      {
+        name:   "Macedonia",
+        locale: "mk",
+        type:   "SPP14X"
+      },
+      {
+        name:   "Moldova",
+        locale: "md",
+        type:   "SPP14X"
+      },
+      {
+        name:   "Montenegro",
+        locale: "me",
+        type:   "SPP14X"
+      },
+      {
+        name:   "Netherlands",
+        locale: "nl",
+        type:   "SPP14X"
+      },
+      {
+        name:   "Norway",
+        locale: "no",
+        type:   "SPP14X"
+      },
+      {
+        name:   "Poland",
+        locale: "pl",
+        type:   "SP2/SPP14"
+      },
+      {
+        name:   "Portugal",
+        locale: "pt",
+        type:   "SPP14X"
+      },
+      {
+        name:   "Romania",
+        locale: "ro",
+        type:   "SPP14X"
+      },
+      {
+        name:   "Russia",
+        locale: "ru",
+        type:   "SPP14X"
+      },
+      {
+        name:   "Serbia",
+        locale: "rs",
+        type:   "SPP14X"
+      },
+      {
+        name:   "Slovakia",
+        locale: "sk",
+        type:   "SPP14X"
+      },
+      {
+        name:   "Slovenia",
+        locale: "si",
+        type:   "SPP14X"
+      },
+      {
+        name:   "Spain",
+        locale: "es",
+        type:   "SPP14X"
+      },
+      {
+        name:   "Sweden",
+        locale: "se",
+        type:   "SPP14X"
+      },
+      {
+        name:   "Switzerland",
+        locale: "ch",
+        type:   "SPP14X"
+      },
+      {
+        name:   "Ukraine",
+        locale: "ua",
+        type:   "SPP14X"
+      },
+      {
+        name:   "United Kingdom",
+        locale: "gb",
+        type:   "SPP14X"
+      },
+      {
+        name:   "Other",
+        locale: "univ",
+        type:   "SPP14X"
+      }
+    ]
+  },
   spp16p:   {
     name:         "SPP16P",
     category:     "R3a",
@@ -9546,6 +9762,224 @@ umegaTrailers = {
         name:   "Other",
         locale: "univ",
         type:   "SPP16"
+      }
+    ]
+  },
+	spp16x:   {
+    name:         "SPP16X",
+    category:     "R3a",
+    variant:      "12X",
+    typeEC:       "SPP",
+    weight:       3700,
+    techPayload:  10000,
+    roadWeight:   13700,
+    axleNum:      2,
+    speed: 40,
+    couplingFront: {
+      dval: 120,
+      vval: 0
+    },
+    couplingRear: {
+      presence:   true,
+      dval:       96
+    },
+    certificate: [
+      {
+        name: "No certification",
+        number: "-",
+        type: "SPP16X"
+      },
+      {
+        name: "European 167/2013",
+        number: "e32*167/2013*00050*01",
+        type: "SPP16X"
+      },
+      {
+        name: "Poland",
+        number: "PL*44810*00",
+        type: "SP2/SPP16"
+      }
+    ],
+    country: [
+      {
+        name:   "Albania",
+        locale: "al",
+        type:   "SPP16X"
+      },
+      {
+        name:   "Austria",
+        locale: "at",
+        type:   "SPP16X"
+      },
+      {
+        name:   "Belgium",
+        locale: "be",
+        type:   "SPP16X"
+      },
+      {
+        name:   "Bosnia and Herzegovina",
+        locale: "ba",
+        type:   "SPP16X"
+      },
+      {
+        name:   "Bulgaria",
+        locale: "bg",
+        type:   "SPP16X"
+      },
+      {
+        name:   "Croatia",
+        locale: "hr",
+        type:   "SPP16X"
+      },
+      {
+        name:   "Czech Rep.",
+        locale: "cz",
+        type:   "SPP16X"
+      },
+      {
+        name:   "Denmark",
+        locale: "dk",
+        type:   "SPP16X"
+      },
+      {
+        name:   "Estonia",
+        locale: "ee",
+        type:   "SPP16X"
+      },
+      {
+        name:   "Finland",
+        locale: "fi",
+        type:   "SPP16X"
+      },
+      {
+        name:   "France",
+        locale: "fr",
+        type:   "SPP16X"
+      },
+      {
+        name:   "Germany",
+        locale: "de",
+        type:   "SPP16X"
+      },
+      {
+        name:   "Greece",
+        locale: "gr",
+        type:   "SPP16X"
+      },
+      {
+        name:   "Hungary",
+        locale: "hu",
+        type:   "SPP16X"
+      },
+      {
+        name:   "Ireland",
+        locale: "ie",
+        type:   "SPP16X"
+      },
+      {
+        name:   "Italy",
+        locale: "it",
+        type:   "SPP16X"
+      },
+      {
+        name:   "Latvia",
+        locale: "lv",
+        type:   "SPP16X"
+      },
+      {
+        name:   "Lithuania",
+        locale: "lt",
+        type:   "SPP16X"
+      },
+      {
+        name:   "Macedonia",
+        locale: "mk",
+        type:   "SPP16X"
+      },
+      {
+        name:   "Moldova",
+        locale: "md",
+        type:   "SPP16X"
+      },
+      {
+        name:   "Montenegro",
+        locale: "me",
+        type:   "SPP16X"
+      },
+      {
+        name:   "Netherlands",
+        locale: "nl",
+        type:   "SPP16X"
+      },
+      {
+        name:   "Norway",
+        locale: "no",
+        type:   "SPP16X"
+      },
+      {
+        name:   "Poland",
+        locale: "pl",
+        type:   "SP2/SPP12"
+      },
+      {
+        name:   "Portugal",
+        locale: "pt",
+        type:   "SPP16X"
+      },
+      {
+        name:   "Romania",
+        locale: "ro",
+        type:   "SPP16X"
+      },
+      {
+        name:   "Russia",
+        locale: "ru",
+        type:   "SPP16X"
+      },
+      {
+        name:   "Serbia",
+        locale: "rs",
+        type:   "SPP16X"
+      },
+      {
+        name:   "Slovakia",
+        locale: "sk",
+        type:   "SPP16X"
+      },
+      {
+        name:   "Slovenia",
+        locale: "si",
+        type:   "SPP16X"
+      },
+      {
+        name:   "Spain",
+        locale: "es",
+        type:   "SPP16X"
+      },
+      {
+        name:   "Sweden",
+        locale: "se",
+        type:   "SPP16X"
+      },
+      {
+        name:   "Switzerland",
+        locale: "ch",
+        type:   "SPP16X"
+      },
+      {
+        name:   "Ukraine",
+        locale: "ua",
+        type:   "SPP16X"
+      },
+      {
+        name:   "United Kingdom",
+        locale: "gb",
+        type:   "SPP16X"
+      },
+      {
+        name:   "Other",
+        locale: "univ",
+        type:   "SPP16X"
       }
     ]
   },
