@@ -7383,9 +7383,9 @@ umegaTrailers = {
     category:     "R3a",
     variant:      "10X",
     typeEC:       "SPP",
-    weight:       3700,
+    weight:       3810,
     techPayload:  10000,
-    roadWeight:   13700,
+    roadWeight:   13810,
     axleNum:      2,
     speed: 40,
     couplingFront: {
