@@ -7816,7 +7816,7 @@ umegaTrailers = {
     name:         "SPP10U",
     category:     "R3a",
     variant:      "U",
-    typeEC:       "SPP10",
+    typeEC:       " ",
     weight:       3700,
     techPayload:  10000,
     roadWeight:   18000,
