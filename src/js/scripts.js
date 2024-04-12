@@ -8463,7 +8463,6 @@ ll33:   {
       }
     ]
   },
-	
   spp14u:   {
     name:         "SPP14U",
     category:     "R3a",
