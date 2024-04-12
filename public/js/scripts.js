@@ -8899,6 +8899,224 @@ umegaTrailers = {
       }
     ]
   },
+	  spp14w:   {
+    name:         "SPP14W",
+    category:     "R3a",
+    variant:      "14W",
+    typeEC:       "SPP",
+    weight:       ,
+    techPayload:  ,
+    roadWeight:   ,
+    axleNum:      ,
+    speed: 40,
+    couplingFront: {
+      dval: 120,
+      vval: 0
+    },
+    couplingRear: {
+      presence:   true,
+      dval:       96
+    },
+    certificate: [
+      {
+        name: "No certification",
+        number: "",
+        type: "SPP14W"
+      },
+      {
+        name: "European 167/2013",
+        number: "e32*167/2013*00050*01",
+        type: "SPP14W"
+      },
+      {
+        name: "Poland",
+        number: "PL*44810*00",
+        type: "SP2/SPP14"
+      }
+    ],
+    country: [
+      {
+        name:   "Albania",
+        locale: "al",
+        type:   "SPP14W"
+      },
+      {
+        name:   "Austria",
+        locale: "at",
+        type:   "SPP14W"
+      },
+      {
+        name:   "Belgium",
+        locale: "be",
+        type:   "SPP14W"
+      },
+      {
+        name:   "Bosnia and Herzegovina",
+        locale: "ba",
+        type:   "SPP14W"
+      },
+      {
+        name:   "Bulgaria",
+        locale: "bg",
+        type:   "SPP14W"
+      },
+      {
+        name:   "Croatia",
+        locale: "hr",
+        type:   "SPP14W"
+      },
+      {
+        name:   "Czech Rep.",
+        locale: "cz",
+        type:   "SPP14W"
+      },
+      {
+        name:   "Denmark",
+        locale: "dk",
+        type:   "SPP14W"
+      },
+      {
+        name:   "Estonia",
+        locale: "ee",
+        type:   "SPP14W"
+      },
+      {
+        name:   "Finland",
+        locale: "fi",
+        type:   "SPP14W"
+      },
+      {
+        name:   "France",
+        locale: "fr",
+        type:   "SPP14W"
+      },
+      {
+        name:   "Germany",
+        locale: "de",
+        type:   "SPP14W"
+      },
+      {
+        name:   "Greece",
+        locale: "gr",
+        type:   "SPP14W"
+      },
+      {
+        name:   "Hungary",
+        locale: "hu",
+        type:   "SPP14W"
+      },
+      {
+        name:   "Ireland",
+        locale: "ie",
+        type:   "SPP14W"
+      },
+      {
+        name:   "Italy",
+        locale: "it",
+        type:   "SPP14W"
+      },
+      {
+        name:   "Latvia",
+        locale: "lv",
+        type:   "SPP14W"
+      },
+      {
+        name:   "Lithuania",
+        locale: "lt",
+        type:   "SPP14W"
+      },
+      {
+        name:   "Macedonia",
+        locale: "mk",
+        type:   "SPP14W"
+      },
+      {
+        name:   "Moldova",
+        locale: "md",
+        type:   "SPP14W"
+      },
+      {
+        name:   "Montenegro",
+        locale: "me",
+        type:   "SPP14W"
+      },
+      {
+        name:   "Netherlands",
+        locale: "nl",
+        type:   "SPP14W"
+      },
+      {
+        name:   "Norway",
+        locale: "no",
+        type:   "SPP14W"
+      },
+      {
+        name:   "Poland",
+        locale: "pl",
+        type:   "SP2/SPP14"
+      },
+      {
+        name:   "Portugal",
+        locale: "pt",
+        type:   "SPP14W"
+      },
+      {
+        name:   "Romania",
+        locale: "ro",
+        type:   "SPP14W"
+      },
+      {
+        name:   "Russia",
+        locale: "ru",
+        type:   "SPP14W"
+      },
+      {
+        name:   "Serbia",
+        locale: "rs",
+        type:   "SPP14W"
+      },
+      {
+        name:   "Slovakia",
+        locale: "sk",
+        type:   "SPP14W"
+      },
+      {
+        name:   "Slovenia",
+        locale: "si",
+        type:   "SPP14W"
+      },
+      {
+        name:   "Spain",
+        locale: "es",
+        type:   "SPP14W"
+      },
+      {
+        name:   "Sweden",
+        locale: "se",
+        type:   "SPP14W"
+      },
+      {
+        name:   "Switzerland",
+        locale: "ch",
+        type:   "SPP14W"
+      },
+      {
+        name:   "Ukraine",
+        locale: "ua",
+        type:   "SPP14W"
+      },
+      {
+        name:   "United Kingdom",
+        locale: "gb",
+        type:   "SPP14W"
+      },
+      {
+        name:   "Other",
+        locale: "univ",
+        type:   "SPP14W"
+      }
+    ]
+  },
   spp14u:   {
     name:         "SPP14U",
     category:     "R3a",
